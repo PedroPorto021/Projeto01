@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projeto01</string>
+    <string name="hint_login">Login</string>
+    <string name="hint_senha">Senha</string>
+    <string name="btn_entrar">Entrar</string>
+
+</resources>
