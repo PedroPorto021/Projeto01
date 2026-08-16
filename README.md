@@ -36,3 +36,16 @@ A ideia é continuar aprimorando o aplicativo conforme avanço nos estudos, adic
 ## Status
 
 Em desenvolvimento.
+
+## Capturas do aplicativo
+
+Abaixo estão algumas telas da primeira versão do projeto:
+
+### Tela de Login
+
+<img width="320" alt="tela-login" src="https://github.com/user-attachments/assets/a07c1fc4-c705-4213-b72d-dced5f656c40" />
+
+### Tela Inicial
+
+<img width="320" alt="tela-final" src="https://github.com/user-attachments/assets/97cf16a4-c1c9-4f8d-b47e-499c3c51beb9" />
+
